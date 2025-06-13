@@ -88,9 +88,7 @@ API RESTful desarrollada en PHP puro para la gestión de camisetas de fútbol y 
 
 ## Autores
 
-- Matías López
-- Camila Fuentes
-
+- Arturo Chacón
 ---
 
 ## Licencia
