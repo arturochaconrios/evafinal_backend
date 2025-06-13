@@ -93,4 +93,4 @@ API RESTful desarrollada en PHP puro para la gestión de camisetas de fútbol y 
 
 ## Licencia
 
-MIT
+IPSS
